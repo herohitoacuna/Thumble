@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Learn Javascript",
+    "content": "Learning javascript is fun",
+    "tags": ["technology", "science"]
+  },
+  {
+    "title": "Learn to cook",
+    "content": "Learning to cook is fun",
+    "tags": ["social"]
+  },
+  {
+    "title": "Learn NextJs",
+    "content": "Learning NextJs is fun",
+    "tags": ["science"]
+  },
+  {
+    "title": "Learn how to drive a car.",
+    "content": "Learning how to drive a car is fun",
+    "tags": ["social"]
+  }
+]
